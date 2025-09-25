@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**LeonardoSuperno/leonardosuperno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+Here you can find some of my projects, mainly related to **Data Science, Machine Learning, and Engineering**.  
+Each project comes with its code repository and a PDF report for a deeper explanation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 📊 Project 1: [Project Title](https://github.com/username/project1)
+- **Description:** Short description of what the project is about (e.g., a machine learning model for X).  
+- **Report:** [Download PDF](link-to-pdf)
+
+---
+
+### 🤖 Project 2: [Project Title](https://github.com/username/project2)
+- **Description:** Brief description here (e.g., data analysis of Y dataset).  
+- **Report:** [Download PDF](link-to-pdf)
+
+---
+
+### 🌍 Project 3: [Project Title](https://github.com/username/project3)
+- **Description:** Short summary (e.g., web app for visualizing Z).  
+- **Report:** [Download PDF](link-to-pdf)
+
+---
+
+## 📫 Contact
+- GitHub: [github.com/username](https://github.com/username)  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/username)  
+- Email: your.email@example.com
