@@ -8,25 +8,27 @@ Each project comes with its code repository and a PDF report for a deeper explan
 
 ## 🚀 Projects
 
-### 📊 Project 1: [Project Title](https://github.com/username/project1)
-- **Description:** Short description of what the project is about (e.g., a machine learning model for X).  
-- **Report:** [Download PDF](link-to-pdf)
+### 🚗 [Real-time Domain Adaptation in Semantic Segmentation](https://github.com/LeonardoSuperno/SemSeg_MLDL25)
+- **Description:** This work focuses on domain adaptation techniques for real-time semantic segmentation. We trained and evaluated a classical model (DeepLabV2) and a real-time model (BiSeNet) on the real-world Cityscapes dataset to establish baseline performance. We then trained BiSeNet on the synthetic GTA5 dataset and evaluated its generalization to Cityscapes, highlighting the impact of domain shift.  
+
+<p align="center">
+  <img src="https://github.com/LeonardoSuperno/leonardosuperno/blob/main/Immagine%20WhatsApp%202025-06-15%20ore%2016.13.20_ffe2593f.jpg" width="45%" />
+  <img src="https://github.com/LeonardoSuperno/leonardosuperno/blob/main/Immagine%20WhatsApp%202025-06-15%20ore%2016.13.20_08723621.jpg" width="45%" />
+</p>
+
+- **More details:** [Complete Report](https://github.com/LeonardoSuperno/leonardosuperno/blob/main/Real-time%20Domain%20Adaptation%20in%20Semantic%20Segmentation.pdf)
 
 ---
 
-### 🤖 Project 2: [Project Title](https://github.com/username/project2)
-- **Description:** Brief description here (e.g., data analysis of Y dataset).  
-- **Report:** [Download PDF](link-to-pdf)
+### 🏥 [The Integrated Healthcare Timetabling Competition with Genetic Algorithm](https://github.com/LeonardoSuperno/IhtcGA)
+- **Description:** This project tackles the Integrated Healthcare Timetabling problem, which combines surgical case planning, patient admission scheduling, and nurse-to-room assignment. We developed a solution based on a **genetic algorithm** to efficiently manage hospital scheduling.  
+
+<p align="center">
+  <img src="https://github.com/LeonardoSuperno/leonardosuperno/blob/main/illustrazione-piana-di-vettore-dei-personaggi-cartoni-animati-del-personale-medico-insieme-medici-isolati-su-fondo-bianco-gruppo-116632687.jpeg" width="40%" />
+</p>
 
 ---
 
-### 🌍 Project 3: [Project Title](https://github.com/username/project3)
-- **Description:** Short summary (e.g., web app for visualizing Z).  
-- **Report:** [Download PDF](link-to-pdf)
-
----
-
-## 📫 Contact
-- GitHub: [github.com/username](https://github.com/username)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/username)  
-- Email: your.email@example.com
+## 📫 Contact 
+- LinkedIn: [Leonardo Superno Falco](https://www.linkedin.com/in/leonardo-superno-falco-00153a369/)
+- Email: leonardo.superno@gmail.com
