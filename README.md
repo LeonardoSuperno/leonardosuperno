@@ -9,7 +9,7 @@ Here you can find some of my projects, mainly related to **AI, Data Science, Mac
 
 ### 🤔 [Mechanistic Interpretability of Vision Transformers](https://github.com/LeonardoSuperno/leonardosuperno/blob/main/report_s338685.pdf)
 - **Description:** Investigated the internal representations of DINO Vision Transformers using BatchTopK and Matryoshka Sparse Autoencoders (SAEs). Compared CLS-only and spatial-token training strategies to analyze feature localization, semantic specialization, and layer-wise information aggregation. Results reveal a transition from localized patch-level representations to global semantic aggregation in deeper layers, demonstrating the potential of SAEs for uncovering interpretable visual concepts.
-<img src="https://github.com/LeonardoSuperno/leonardosuperno/blob/main/image.jpg" />
+<img src="https://github.com/LeonardoSuperno/leonardosuperno/blob/main/image.png" />
 
 ### 😠 [Sentiment Analysis and Sarcasm Detection](https://github.com/LeonardoSuperno/Figurative-Language-Understanding)
 - **Description:** Evaluated encoder-based and generative language models (BERT and Mistral-7B) on sentiment analysis and sarcasm detection across British, Australian, and Indian English varieties using the BESSTIE benchmark. Explored Multitask Learning, Supervised Contrastive Learning, Data Augmentation, QLoRA Fine-Tuning, Few-Shot Prompting, and Probing techniques to improve model performance and robustness under resource-constrained settings.
